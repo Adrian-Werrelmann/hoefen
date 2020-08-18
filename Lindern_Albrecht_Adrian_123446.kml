@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<Style id="poly-BCA920">
+		<PolyStyle>
+			<color>80BCA920</color>
+		</PolyStyle>
+	</Style>
+	<Style id="line-w2">
+		<LineStyle>
+			<color>FFBCA920</color>
+			<width>2.0</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name><![CDATA[1]]></name>
+		<styleUrl>#poly-BCA920</styleUrl>
+		<TimeStamp><when>2020-05-07T07:18</when></TimeStamp>
+		<ExtendedData>
+			<Data name="rating">
+				<value><![CDATA[0]]></value>
+</Data>
+</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs><LinearRing><coordinates>7.87216,52.83502,0 7.87197,52.83417,0 7.87466,52.83391,0 7.87514,52.83498,0</coordinates></LinearRing></outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[2]]></name>
+		<styleUrl>#poly-BCA920</styleUrl>
+		<TimeStamp><when>2020-05-07T07:19</when></TimeStamp>
+		<ExtendedData>
+			<Data name="rating">
+				<value><![CDATA[0]]></value>
+</Data>
+</ExtendedData>
+		<Polygon>
+			<outerBoundaryIs><LinearRing><coordinates>7.87288,52.83757,0 7.87224,52.83533,0 7.87502,52.83518,0 7.87541,52.8373,0</coordinates></LinearRing></outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[07.05.20]]></name>
+		<styleUrl>#line-w2</styleUrl>
+		<TimeStamp><when>2020-05-07T07:27</when></TimeStamp>
+		<ExtendedData>
+			<Data name="rating">
+				<value><![CDATA[0]]></value>
+</Data>
+</ExtendedData>
+		<LineString>
+			<coordinates>7.87288,52.83556,0 7.87336,52.83584,0 7.87383,52.83638,0 7.8743,52.83676,0 7.87504,52.83694,0</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
